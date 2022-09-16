@@ -11,4 +11,13 @@
     <string name="button_name">Click me</string>
     <string name="button_loading">We are loading </string>
     <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="notification_channel_id">123123123</string>
+    <string name="https_github_com_bumptech_glide">https://github.com/bumptech/glide/archive/refs/heads/master.zip</string>
+    <string name="https_github_com_udacity_nd940_c3_advanced_android_programming_project_starter">https://github.com/udacity/nd940-c3-advanced-android-programming-project-starter/archive/refs/heads/master.zip</string>
+    <string name="https_github_com_square_retrofit">https://github.com/square/retrofit/archive/refs/heads/master.zip</string>
+    <string name="downloading_status">Downloading status</string>
+    <string name="file_name">File name: %s</string>
+    <string name="file_url">File url: %s</string>
+    <string name="go_back_to_the_main_screen">Go back to the main screen</string>
 </resources>
